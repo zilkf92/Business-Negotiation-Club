@@ -6,6 +6,7 @@ These notes proved to be particularly beneficial for newcomers, although they wi
 We hope that these notes help some of you to
 
 - recognize the countless different negotiation situations we find ourselves in every day
+- analyze your personal negotiation and conflict style
 - understand the underlying process that guides our negotiations
 - communicate more reflected and less reflexive
 - feel more confident and less intimidated, especially when it comes to negotiate on your own behalf
