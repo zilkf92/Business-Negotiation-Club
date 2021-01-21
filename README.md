@@ -7,7 +7,7 @@ We hope that these notes help some of you to
 
 - recognize the countless different negotiation situations we find ourselves in every day
 - analyze your personal negotiation and conflict style
-- understand the underlying process that guides our negotiations
+- understand the dynamics and complexities of the negotiation process
 - communicate more reflected and less reflexive
 - feel more confident and less intimidated, especially when it comes to negotiate on your own behalf
 - create mutually satisfying outcomes with the people you encounter,
