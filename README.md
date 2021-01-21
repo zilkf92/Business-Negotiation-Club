@@ -1,5 +1,5 @@
 # Business-Negotiation-Club
-In this repository we have collected a compilation of our notes that have been created in over more than two years of teaching negotiation at the [United Nations Youth and Student Association of Austria - Academic Forum for Foreign Affairs](http://www.negotiations.at/).
+In this repository is a compilation of notes that have been created during more than two years of teaching negotiation at the [United Nations Youth and Student Association of Austria - Academic Forum for Foreign Affairs](http://www.negotiations.at/).
 
 These notes proved to be particularly beneficial for newcomers, although they will be useful to everyone who wants to become better and more effective in negotiations.
 
